@@ -1,4 +1,4 @@
 {
-  "maintenance": false,
-  "message": "Сработала аварийная защита"
+  "maintenance": true,
+  "message": "Ошибка запуска"
 }
